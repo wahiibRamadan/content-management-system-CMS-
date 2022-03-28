@@ -10,4 +10,5 @@ if(!$conn){
     echo "database is connected succesfully";
 }
 
+
 ?>
